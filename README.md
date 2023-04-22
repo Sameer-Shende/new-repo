@@ -1,4 +1,3 @@
-# new-repo
 
 # Types of Banks
 
